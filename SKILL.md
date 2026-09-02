@@ -5,7 +5,7 @@ display_name_en: Qianmen Bajiang - Business Strategy and Defense
 description_zh: 把古代「千门八将」八种角色翻译成现代商业职能，输入想法或产品，输出做局路径、入局路径与破局风险自查。
 description_en: Translates the ancient Eight Generals roles into modern business functions for strategy, market entry, and risk defense.
 version: 1.0.0
-author: guanjie2024
+author: 观界
 description: |
   千门八将 · 商业做局与破局。把古代"千门八将"的八种角色（风、提、谣、反、正、火、除、脱）
   重新解读为现代商业的八种合法职能：情报调研、战略策划、品牌传播、对立检验、产品执行、
